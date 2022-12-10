@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+	background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/829/1486741620953.jpg');
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.c74917 {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.c75087 {
+    color: rgb(0, 0, 0);
+    font-family: "Microsoft YaHei";
+    font-size: medium;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-weight: 400;
+    background-color: rgb(255, 255, 255);
+}
+
+.c3690 {
+    padding: 10px;
+    text-align: center;
+    color: black;
+}
